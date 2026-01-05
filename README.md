@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo João Emanuel, tenho 20 anos e sou natural de João Pessoa, PB. Atualmente, estou cursando Ciências da Computação na UNIPE.
+Me chamo João Emanuel, tenho 20 anos e sou natural de João Pessoa, PB. Atualmente, estou cursando Ciências da Computação na UNIPE, estou no segundo periodo.
 
 <p align="left">
     <a href="https://github.com/Jaoo-e26?tab=repositories&sort=stargazers">
