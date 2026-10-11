@@ -107,7 +107,7 @@ Me chamo João Emanuel, tenho 20 anos e sou natural de João Pessoa, PB. Atualme
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaoo-e26&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaoo-e26&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoo-e26&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" />
 
