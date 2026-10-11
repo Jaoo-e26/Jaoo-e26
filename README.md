@@ -107,7 +107,7 @@ Me chamo João Emanuel, tenho 20 anos e sou natural de João Pessoa, PB. Atualme
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaoo-e26&theme=radial&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaoo-e26&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 <br/>
